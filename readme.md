@@ -2,7 +2,7 @@
 
 > 你比你想象的更耀眼。
 
-[👉 在线体验](https://yourusername.github.io/sbti-sunny)
+[👉 在线体验](https://qq775878365.github.io/sbti-sunny/)
 
 ## 项目简介
 
